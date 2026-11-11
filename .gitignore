@@ -1,0 +1,16 @@
+# 데이터셋과 학습 결과물 (용량 문제로 제외)
+dataset/
+dataset_split/
+Real_AI_SD_LD_Dataset/
+*.zip
+*.csv
+*.h5
+
+# Kaggle API 키
+kaggle.json
+.kaggle/
+
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
